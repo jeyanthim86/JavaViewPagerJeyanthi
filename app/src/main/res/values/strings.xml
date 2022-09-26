@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JavaViewPagerJeyanthi</string>
+    <string name="main_title">My Inspired Life Quotes</string>
+
+    <string name="share_quotes">share Quotes</string>
+    <string name="page_no">Enter page number 1 to 50</string>
+
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
